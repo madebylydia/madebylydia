@@ -2,7 +2,7 @@
 
 I'm called Julien, and I am a french developer who love making for fun or more serious stuff. I'm starting making since over 2 years ago and I'm proud of what I already did. :)
 
-![Bannière](./img/banner.png)
+![Bannière](https://github.com/Predeactor/Predeactor/raw/master/img/banner.png)
 
 # Technologies
 I'm using the following:
