@@ -4,6 +4,10 @@ I'm called Julien, and I am a french developer who love making for fun or more s
 
 ![Bannière](https://github.com/Predeactor/Predeactor/raw/master/img/banner.png)
 
+<a href="https://github.com/Predeactor">
+  <img src="https://github-readme-stats.vercel.app/api?username=Predeactor&theme=tokyonight&count_private=true&show_icons=true" />
+</a>
+
 # Technologies
 I'm using the following:
 - [Python](https://www.python.org)
