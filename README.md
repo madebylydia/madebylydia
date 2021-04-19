@@ -22,4 +22,4 @@ And I'm learning more over time...
 
 # Contact Me:
 * ![E-Mail](https://img.shields.io/badge/E--Mail-predeactor0%40gmail.com-brightgreen?style=for-the-badge&logo=gmail)
-* [![Discord](https://img.shields.io/badge/Discord-Capt.%20Pred.%230495-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/zg6ydua)
+* [![Discord](https://img.shields.io/badge/Discord-Capt.%20Pred%230495-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/zg6ydua)
