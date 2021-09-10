@@ -11,14 +11,15 @@ This is what I've been touching since I am a developer, more or less:
 - [HTML](https://www.w3.org/html/)
 - [CSS](https://www.w3.org/css/)
 - [Node.Js](https://nodejs.dev/)
+- [AdonisJS](https://adonisjs.com)
 
 And I'm learning more over time...
 
 # Websites
 
 - Main Website: https://predeactor.net
-- Blog: https://blog.predeactor.net 
-- Hatsune Miku Image API: https://mikuapi.predeactor.net
+- Blog: https://blog.predeactor.net
+- Hatsune Miku Image API: https://miku-for.us
 
 # Contact Me:
 * ![E-Mail](https://img.shields.io/badge/E--Mail-predeactor0%40gmail.com-brightgreen?style=for-the-badge&logo=gmail)
