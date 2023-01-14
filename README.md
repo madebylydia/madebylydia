@@ -1,35 +1,20 @@
-<h1 align="center">Welcome! I am Predeactor!</h1>
-<h3 align="center">Python developer! (I like creating packages!)</h3>
+<h1>Name's Predeactor, also known as Lydia</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=predeactor&label=Total%20of%20eyes%20looking%20at%20this:&color=99c1f1&style=flat-square" alt="predeactor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predeactor" alt="predeactor" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/predeactor1" target="blank"><img src="https://img.shields.io/twitter/follow/predeactor1?logo=twitter&style=for-the-badge" alt="predeactor1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=predeactor&label=Total%20of%20eyes%20looking%20at%20this:&color=99c1f1&style=flat-square" alt="predeactor" /> <a href="https://twitter.com/predeactor1" target="blank"><img src="https://img.shields.io/twitter/follow/predeactor1?logo=twitter&style=for-the-badge" alt="predeactor1" /></a> </p>
 
 - 🔭 I’m currently working on [Fabricius](https://github.com/Predeactor/Fabricius)
-
-- 🌱 I’m currently learning **TypeScript, databases, DevOps... Stuff!**
-
-- 👯 I’m looking to collaborate on **Fabricius, too!**
-
-- 🤝 I’m looking for help with **Fabricius, again!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Predeactor](https://github.com/Predeactor) ... oh you're already there
-
-- 💬 Ask me about **Python! ilovepython!**
+- 👨‍💻 All of my projects are available [on my GitHub profile](https://github.com/Predeactor)
 
 - 📫 How to reach me **Check out my website directly: https://predeactor.net**
 
-- ⚡ Fun fact 😃😃😃
+<b>Here are some other ways to get to contact me:</b>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/predeactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="predeactor" height="30" width="40" /></a>
 <a href="https://twitter.com/predeactor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="predeactor1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13720113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13720113" height="30" width="40" /></a>
 <a href="https://discord.gg/red" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aPVupKAxxP" height="30" width="40" /></a>
-I am <b>Capt. Pred#0495</b> on Discord.
+I am <b>Lydia#9026</b> on Discord.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,9 +22,3 @@ I am <b>Capt. Pred#0495</b> on Discord.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/predeactor"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="predeactor" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=predeactor&show_icons=true&locale=en&layout=compact" alt="predeactor" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=predeactor&show_icons=true&theme=onedark&locale=en" alt="predeactor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=predeactor&theme=dark" alt="predeactor" /></p>
