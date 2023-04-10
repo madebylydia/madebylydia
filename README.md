@@ -13,7 +13,7 @@
 <a href="https://dev.to/predeactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="predeactor" height="30" width="40" /></a>
 <a href="https://twitter.com/predeactor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="predeactor1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13720113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13720113" height="30" width="40" /></a>
-<a href="https://discord.gg/red" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aPVupKAxxP" height="30" width="40" /></a>
+<a href="https://discord.gg/WdcFUH7ths" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aPVupKAxxP" height="30" width="40" /></a>
 I am <b>Lydia#9026</b> on Discord.
 </p>
 
