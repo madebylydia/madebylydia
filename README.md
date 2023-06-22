@@ -6,7 +6,7 @@ My passion for coding is driven by my personal goals. I will achieve what I want
 
 Discord has been my home since the very beginning. You can find me there!
 
-<a href=ttps://discord.gg/WdcFUH7ths><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a> I am **lydia39** on Discord. (Or click the icon to join my server)
+<a href="https://discord.gg/WdcFUH7ths"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a> I am **lydia39** on Discord. (Or click the icon to join my server)
 
 <h3 align="left">Stuff I know:</h3>
 <p>
